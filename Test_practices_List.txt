@@ -1,0 +1,3 @@
+~TestDoc文件夹： 包括unitTest（两个.php文件）,测试计划,bugTracker，以及说明文件。
+
+WebNewLook.rar:   包括我们最近重新做的网站截图。
